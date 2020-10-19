@@ -5,3 +5,4 @@ venv
 db.sqlite3
 /static
 .DC_Store
+*.idea
